@@ -41,7 +41,7 @@
     .nav__exit {
         display: block;
         position: relative;
-        top: -1.5em;
+        top: 0em;
         right: -3em;
 
     }
