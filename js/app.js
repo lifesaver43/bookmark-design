@@ -73,6 +73,8 @@ lis[3].addEventListener("click", (e)=>{
     ? "block" : "none";
 })
 
+
+// Nav Toggle
 const hamb = document.querySelector(".nav__toggle")
 const exit = document.querySelector(".nav__exit")
 const nav = document.querySelector(".nav__menu")
